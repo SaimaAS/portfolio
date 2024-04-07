@@ -153,6 +153,10 @@ body {
     margin-top: 0;
   }
   
+  .social-icons{
+    row-gap: 5px;
+    column-gap: 5px;
+  }
   
   .cur{
     width: 100%;
